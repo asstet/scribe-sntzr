@@ -1,0 +1,14 @@
+{
+  "name": "scribe-sntzr",
+  "version": "1.0.0",
+  "main": "src/scribe-sntzr.js",
+  "repository": {
+    "url": "https://github.com/asstet/scribe-sntzr.git",
+    "type": "git"
+  },
+  "author": "Nikita Komarkov <lllamah711@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sanitize-html": "^1.13.0"
+  }
+}
