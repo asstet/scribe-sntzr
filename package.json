@@ -9,6 +9,7 @@
   "author": "Nikita Komarkov <lllamah711@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^4.16.6",
     "sanitize-html": "^1.13.0"
   }
 }
