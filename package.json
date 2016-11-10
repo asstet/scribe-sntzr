@@ -1,6 +1,6 @@
 {
   "name": "scribe-sntzr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/scribe-sntzr.js",
   "repository": {
     "url": "https://github.com/asstet/scribe-sntzr.git",
